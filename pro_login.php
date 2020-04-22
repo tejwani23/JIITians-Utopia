@@ -121,7 +121,7 @@ form-area input[type="submit"]:hover{
 	<input type="Password" name="pass" required>
 	 <button type="submit">LOGIN</button>
 </form>
-    <h6>Not yet registered <a href="http://localhost/project/pro_signup.php">SIGN UP</a></h6>
+    <h6>Not yet registered <a href="pro_signup.php">SIGN UP</a></h6>
 </div>
 <!-- <form  method="post" action="pro_login2.php" name ="sign_up">
 	<h3>LOGIN</h3>
